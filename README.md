@@ -1,6 +1,8 @@
 # eglm
 Efficient Fitting of Generalized Linear Models Use eglm (eflm) With (In) R Software
 
+https://www.youtube.com/watch?v=Km8_Ilyczp0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
